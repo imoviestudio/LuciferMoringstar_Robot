@@ -1,7 +1,7 @@
-### [Advance_movie_search_bot](https://telegram.dog/LuciferMoringstar_Robot)
+### [Advance_movie_search_bot](https://telegram.dog/Advance_movie_search_bot)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/imoviestudio/LuciferMoringstar_Robot?style=social)
-<img src="https://img.shields.io/github/forks/imoviestudio/LuciferMoringstar_Robot?style=social"></img>
+![GitHub Repo stars](https://img.shields.io/github/stars/imoviestudio/Advance_movie_search_bot?style=social)
+<img src="https://img.shields.io/github/forks/imoviestudio/Advance_movie_search_bot?style=social"></img>
 ## How To Deploy Video
 <a href="https://youtu.be/-xDQbsF-wek"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
 ## Subscribe YouTube Channel
