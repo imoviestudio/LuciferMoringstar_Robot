@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/PROFESSOR-99/LuciferMoringstar_Robot",
-    "repository": "https://github.com/imoviestudio/LuciferMoringstar_Robot",
+    "website": "https://github.com/PROFESSOR-99/Advance_movie_search_bot",
+    "repository": "https://github.com/imoviestudio/Advance_movie_searcb_bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
