@@ -81,8 +81,8 @@
            "value": "LuciferMoringstar Robot"
         },
         "BOT_USERNAME": {
-            "description": "your Bot User Name from @Botfather (Without @) eg LuciferMoringstar_robot",
-           "value": "LuciferMoringstar_Robot"
+            "description": "your Bot User Name from @Botfather (Without @) eg Advance_movie_search_bot",
+           "value": "Advance_movie_search_bot"
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
