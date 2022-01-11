@@ -78,7 +78,7 @@
         },
         "BOT_NAME": {
             "description": "Enter Your Bot Name",
-           "value": "LuciferMoringstar Robot"
+           "value": "Advance_movie_search_bot"
         },
         "BOT_USERNAME": {
             "description": "your Bot User Name from @Botfather (Without @) eg Advance_movie_search_bot",
