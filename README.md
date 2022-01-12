@@ -1,7 +1,7 @@
-### [Advance_movie_search_bot](https://telegram.dog/Advance_movie_search_bot)
+### [File_hd_movie_bot](https://telegram.dog/File_hd_movie_bot)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/imoviestudio/Advance_movie_search_bot?style=social)
-<img src="https://img.shields.io/github/forks/imoviestudio/Advance_movie_search_bot?style=social"></img>
+![GitHub Repo stars](https://img.shields.io/github/stars/imoviestudio/File_hd_movie_bot?style=social)
+<img src="https://img.shields.io/github/forks/imoviestudio/File_hd_movie_bot?style=social"></img>
 ## How To Deploy Video
 <a href="https://youtu.be/-xDQbsF-wek"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
 ## Subscribe YouTube Channel
@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imoviestudio/Advance_movie_search_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imoviestudio/File_hd_movie_bot)
 
 
 #### Hard Way
@@ -75,7 +75,7 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * [Original Repo](https://github.com/Mahesh0253/Media-Search-bot)
 * [subinps](https://github.com/subinps/Media-Search-bot)
-* [Editing Muhammed Rk](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+* [Editing Md Imran](https://github.com/imoviestudio/File_hd_movie_bot)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
