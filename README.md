@@ -1,6 +1,6 @@
-### [File_hd_movie_bot](https://telegram.dog/File_hd_movie_bot)
+### [LuciferMoringstar_Robot](https://telegram.dog/LuciferMoringstar_Robot)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/imoviestudio/File_hd_movie_bot?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/PROFESSOR-99/LuciferMoringstar_Robot?style=social)
 <img src="https://img.shields.io/github/forks/imoviestudio/File_hd_movie_bot?style=social"></img>
 ## How To Deploy Video
 <a href="https://youtu.be/-xDQbsF-wek"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imoviestudio/File_hd_movie_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imoviestudio/LuciferMoringstar_Robot)
 
 
 #### Hard Way
